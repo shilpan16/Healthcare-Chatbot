@@ -1,15 +1,3 @@
-Here’s a **README.md** file for your **Healthcare Chatbot** project:  
-
-### **Steps to Add README in VS Code & Push to GitHub**  
-1. Create a new file in VS Code named `README.md` inside your project folder.  
-2. Copy and paste the below content into the `README.md` file.  
-3. Save the file and push it to GitHub:  
-   ```bash
-   git add README.md
-   git commit -m "Added README for Healthcare Chatbot"
-   git push origin main
-   ```
-
 ---
 
 ### **README.md Content**  
