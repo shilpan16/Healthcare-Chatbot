@@ -57,4 +57,3 @@ node server.js  # Start backend
 Feel free to contribute! Fork the repo, create a new branch, and submit a PR.  
 ```
 
-Copy and paste this into your **GitHub repository’s README.md** file. Let me know if you need any changes! 🚀
