@@ -50,6 +50,14 @@ cd Healthcare-Chatbot
 ```bash
 node server.js  # Start backend
 ```
+## Chatbot Interface 🖥️  
+![image](https://github.com/user-attachments/assets/b1e27d49-4766-4c28-a198-3e34964e8bf0)
+![image](https://github.com/user-attachments/assets/66fc508f-e388-4ca3-a333-23cc5518249e)
+![image](https://github.com/user-attachments/assets/18c3bdee-4621-4083-b2e4-87734355643d)
+![image](https://github.com/user-attachments/assets/f0f7befb-e1dc-4f40-a913-d473b18c94bc)
+
+
+
 
 ## Future Enhancements 🚀  
 - Integration with **Wearable Devices** for real-time health tracking.  
